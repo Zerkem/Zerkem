@@ -6,12 +6,12 @@
 <h3 align="center">Cybersecurity Engineer & Junior Software Developer </h3>
 <!-- Red Team Banner -->
 <div align="center">
-  <img src="https://github.com/TheSiyn/TheSiyn/blob/main/animation.gif" alt="Cyber Security Banner" style="width:100%; height:auto; display:block;" />
+  <img src="https://github.com/Zerkem/Zerkem/blob/main/animation.gif" alt="Cyber Security Banner" style="width:100%; height:auto; display:block;" />
 </div>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheSiyn&label=Profile%20views&color=0e75b6&style=flat" alt="TheSiyn" />
+  <img src="https://komarev.com/ghpvc/?username=Zerkem&label=Profile%20views&color=0e75b6&style=flat" alt="Zerkem" />
 </p>
 
 <!-- About Section -->
@@ -51,12 +51,12 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheSiyn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zerkem&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheSiyn&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zerkem&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSiyn" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zerkem" alt="GitHub Streak" />
 </p>
 </div>
