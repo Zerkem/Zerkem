@@ -2,7 +2,7 @@
 
 <!-- Header Section -->
 <div style="background-color:#121212; color:#f0f0f0; padding: 20px; border-radius: 15px;">
-<h1 align="center">Hi 👋, I'm Kemal Baz</h1>
+<h1 align="center">Hi, I'm Kemal Baz</h1>
 <h3 align="center">Cybersecurity Engineer & Junior Software Developer </h3>
 <!-- Red Team Banner -->
 <div align="center">
@@ -15,9 +15,9 @@
 </p>
 
 <!-- About Section -->
-<h3 align="center">🔐 I’m currently working on cyber security, penetration testing, and secure web & mobile projects</h3>
-<h3 align="center">📚 I’m currently learning Go programming language and Python django</h3>
-<h3 align="center">💬 Ask me about Python, web development, or cybersecurity tools & tactics</h3>
+<h3 align="center"> I’m currently working on cyber security, penetration testing, and secure web & mobile projects</h3>
+<h3 align="center"> I’m currently learning Go programming language and Python django</h3>
+<h3 align="center"> Ask me about cybersecurity tools & tactics or Python,Go web development</h3>
 
 <!-- Social Section -->
 <h3 align="center">Connect with me:</h3>
@@ -28,7 +28,7 @@
 </p>
 
 <!-- Tools & Languages -->
-<h3 align="center">🧰 Languages and Tools:</h3>
+<h3 align="center"> Languages and Tools:</h3>
 <p align="center">
   <!-- Dev Tools -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
