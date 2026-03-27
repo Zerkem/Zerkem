@@ -3,7 +3,7 @@
 <!-- Header Section -->
 <div style="background-color:#121212; color:#f0f0f0; padding: 20px; border-radius: 15px;">
 <h1 align="center">Hi, I'm Kemal Baz</h1>
-<h3 align="center">Cybersecurity Engineer & Junior Software Developer </h3>
+<h3 align="center">Cybersecurity Engineer &  Software Developer </h3>
 <!-- Red Team Banner -->
 <div align="center">
   <img src="https://github.com/Zerkem/Zerkem/blob/main/animation.gif" alt="Cyber Security Banner" style="width:100%; height:auto; display:block;" />
