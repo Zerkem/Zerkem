@@ -34,13 +34,11 @@
 <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></a>
-
 <a href="https://www.kali.org/"><img src="https://gitlab.com/kalilinux/documentation/graphic-resources/-/raw/27bf9e2c791773aaf65853512e12199ed1635607/kali-dragon-logo/kali-dragon-icon-simple-blue.svg" width="40"/></a>
 <a href="https://nmap.org/"><img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/nmap-logo.svg" width="40"/></a>
 <a href="https://www.wireshark.org/"><img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/wireshark.svg" width="40"/></a>
 <a href="https://www.metasploit.com/"><img src="https://raw.githubusercontent.com/rohhthone/logo/main/metasploit.svg" width="40"/></a>
 <a href="https://portswigger.net/burp"><img src="https://raw.githubusercontent.com/Mit-Rax/BURPY/main/burp-suite-professional.svg" width="40"/></a>
-
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
