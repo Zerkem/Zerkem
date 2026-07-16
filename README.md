@@ -16,8 +16,8 @@
 
 <!-- About Section -->
 <h3 align="center"> I’m currently working on cyber security, penetration testing, and secure web & mobile projects</h3>
-<h3 align="center"> I’m currently learning Go programming language and Python django</h3>
-<h3 align="center"> Ask me about cybersecurity tools & tactics or Python,Go web development</h3>
+<h3 align="center"> I’m currently learning Go programming language and AI Security</h3>
+<h3 align="center"> Ask me about cybersecurity tools & tactics or Python,Go web development and AI Secuirty</h3>
 
 <!-- Social Section -->
 <h3 align="center">Connect with me:</h3>
